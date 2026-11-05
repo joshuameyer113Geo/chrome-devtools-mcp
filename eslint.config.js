@@ -31,6 +31,7 @@ export default defineConfig([
     '**/node_modules',
     '**/build/',
     'third_party/devtools-frontend/**',
+    'harness/**',
     'tests/tools/fixtures/',
     'tests/fixtures/',
     'src/third_party/lighthouse-devtools-mcp-bundle.js',

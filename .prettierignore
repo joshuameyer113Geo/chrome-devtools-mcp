@@ -2,6 +2,7 @@
 CHANGELOG.md
 src/third_party/lighthouse-devtools-mcp-bundle.js
 third_party/devtools-frontend
+harness
 
 # Release-please formatting breaks CI checks
 .claude-plugin/plugin.json
